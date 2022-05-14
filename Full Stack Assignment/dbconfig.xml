@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dbconfig>
+  <limit>100</limit>
+  <host>localhost</host>
+  <user>root</user>
+  <password>275</password>
+  <database>project</database>
+  <port>3306</port>
+</dbconfig>
