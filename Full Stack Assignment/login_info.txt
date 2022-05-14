@@ -1,3 +1,0 @@
-USER: C4131SN22U15
-PASS: 275
-mysql -uC4131SN22U15 -hcse-mysql-classes-01.cse.umn.edu -p3306 -p C4131SN22U15
