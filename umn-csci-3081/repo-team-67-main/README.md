@@ -1,29 +1,4 @@
-Team 67 Repo
-
-## Pre-requisites
-  * [Git](https://git-scm.com/)
-    * [Windows Instructions](https://positive-stud.medium.com/how-to-download-install-git-for-windows-23ae8c12c5c7) - Enable experimental support for pseudo consoles.
-
-## Docker Pre-requisites
-  * Windows 10 Home
-    * Install [wsl2 and Ubuntu](https://www.youtube.com/watch?v=ilKQHAFeQR0&list=RDCMUCzLbHrU7U3cUDNQWWAqjceA&start_radio=1&t=7)
-  * Install [Docker Desktop](https://hub.docker.com/?overlay=onboarding) from [Docker Hub](https://hub.docker.com/)
-  * Linux
-    * Use [docker group instead of sudo](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04)
-
-## Getting Started with Docker
-
-On Windows use the "Git Bash" terminal.
-
-1. Build docker image
-
-    ```bash
-    bin/build-env.sh
-    ```
-
-2. Run docker image
-
-    ```bash
-    #Usage bin/run-env.sh <port - optional(default 8081)>
-    bin/run-env.sh
-    ```
+##team 67 repo
+In previous courses you’ve learned about different programming languages, algorithms, and data structures, and you’ve written programs as part of your course assignments.  But, there’s a big difference between writing a function or two to plug into a homework assignment and the type of programming that happens “in the wild” – for example, in the type of work you may do in industry or graduate school in a few years.  One of the major goals of this class is to provide a first academic experience with designing and writing a “big” program – one that requires working as a team with other programmers, takes months to complete, requires something close to 100 separate files of software code rather than one or two.  This involves linking with external libraries and requires documentation and other good programming practices in order to be successful.  In this course, you’ll learn how to do all these things through hands-on practice.
+<br>
+Back by popular demand!  This semester, we’ll be working on a fun visual project using interactive 3D computer graphics.  You are tasked with building a virtual drone search and rescue system from the ground up.  The utility of unmanned aerial vehicles (UAVs), also known as drones, continues to grow.  Not only can they be used to make movies and deliver packages, perhaps they can be used to save lives.  As with anything, however, new technologies require overcoming significant challenges before implementation and deployment.  These include but are not limited to physics, logistics, route planning, malfunctions, power, and cost.  You and your team will prototype and simulate a real-world application, and optimize it for productivity in three separate iterations:
