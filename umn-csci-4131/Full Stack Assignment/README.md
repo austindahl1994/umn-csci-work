@@ -1,1 +1,1 @@
-File information
+Created a full stack website using Node.js, Express, and MySQL to input, store, and delete contact tables and user information. Utilized html, css, javascript, and jquery to make it a functioning site. Uploaded to AWS and can be viewed at https://dbe5-3-19-228-28.ngrok.io/, please request the username and password if you would like to look into it further from austin.dahl94@gmail.com.
