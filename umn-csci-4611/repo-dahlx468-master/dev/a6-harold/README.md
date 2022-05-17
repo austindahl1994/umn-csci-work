@@ -1,0 +1,2 @@
+I finally got the skysphere to work!! I kept having issues where the lines drawn were projected on the plane rather than the sphere for the sky, and after tests and debugging I managed to get it to act the way I needed it to.
+Other than that I started working on the ground.cc file but was not sure how to proceed with the second portion of the equation so that's where I left the assignment off at.
